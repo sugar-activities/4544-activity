@@ -1,0 +1,14 @@
+[Activity]
+
+name = ChimePlay
+
+bundle_id = org.laptop.ChimePlay
+icon = activity-chimeplay
+
+activity_version = 2
+
+host_version = 1
+
+show_launcher = yes
+exec = sugar-activity chimeplay.ChimePlay
+license = CC-by-SA 3.0
